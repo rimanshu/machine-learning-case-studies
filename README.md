@@ -8,6 +8,6 @@ Repo of machine learning case studies
   
   3. [Quora Question Pair Similarity Problem](https://github.com/SachinKalsi/machine-learning-case-studies/tree/master/quora_question_pairs)
   
-  ![quora](https://github.com/SachinKalsi/machine-learning-case-studies/blob/master/images/quora.jpg)
+  ![quora](https://github.com/SachinKalsi/machine-learning-case-studies/blob/master/images/quora.png)
   
   4. Amazon Fashion Discovery Engine (coming soon)
